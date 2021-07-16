@@ -2,7 +2,8 @@
 ## About
 
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8"></g-emoji> I'm a student of computer at UFRB.</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8"></g-emoji> 
+I'm a computer engineering student at UFRB.</li>
 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png?v8"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png?v8"></g-emoji> 
 Web developer at <a href="https://www.allugator.com/">allugator</a>.</li>
