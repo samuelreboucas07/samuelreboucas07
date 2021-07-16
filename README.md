@@ -9,8 +9,6 @@ Web developer at <a href="https://www.allugator.com/">allugator</a>.</li>
 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png?v8"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png?v8">
 </g-emoji>I currently work with Node.js, ReactJS and graphql.</li>
-
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8"></g-emoji> I’m currently learning Graphql.</li>
 </ul>
 
 ## Languages and tools
